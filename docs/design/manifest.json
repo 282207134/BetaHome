@@ -1,0 +1,2290 @@
+[
+  {
+    "id": "97:1811",
+    "name": "01_White_Splash Screen",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": -464,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 1
+  },
+  {
+    "id": "97:1812",
+    "name": "02_White Onbording 1",
+    "type": "FRAME",
+    "bounds": {
+      "x": 254,
+      "y": -464,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "97:1831",
+    "name": "03_White Onbording 2",
+    "type": "FRAME",
+    "bounds": {
+      "x": 722,
+      "y": -464,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "97:1850",
+    "name": "04_White Onbording 3",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1190,
+      "y": -464,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "97:1873",
+    "name": "Marker Navigation ( On bording )",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": -671,
+      "width": 481,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:7938",
+    "name": "01_Dark_Splash Screen",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": -464,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 1
+  },
+  {
+    "id": "140:7957",
+    "name": "02_Dark Onbording 2",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5870,
+      "y": -464,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:7971",
+    "name": "03_Dark Onbording 3",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6338,
+      "y": -464,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:7985",
+    "name": "04_Dark Onbording 4",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6806,
+      "y": -464,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:7999",
+    "name": "Marker Navigation ( On bording )",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": -671,
+      "width": 481,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "97:1878",
+    "name": "05_White_Welcome Screen",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 785,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 4
+  },
+  {
+    "id": "97:1902",
+    "name": "06_White_Crate  Account Blank Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 254,
+      "y": 785,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "97:2041",
+    "name": "07_White_Crate  Account Typing Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 722,
+      "y": 785,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "97:2222",
+    "name": "08_White_Crate  Account Full Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1190,
+      "y": 785,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "97:2418",
+    "name": "09_White_Login Account Blank Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1658,
+      "y": 785,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "97:2485",
+    "name": "10_White_Login Account Typing Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 2126,
+      "y": 785,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "97:2665",
+    "name": "11_White_Login Account Full Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 2594,
+      "y": 785,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "97:1897",
+    "name": "Marker Navigation (Register And Login )",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 566,
+      "width": 649,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8004",
+    "name": "05_Dark_Welcome Screen",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 785,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 4
+  },
+  {
+    "id": "140:8022",
+    "name": "06_Dark_Crate  Account Blank Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5870,
+      "y": 785,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8045",
+    "name": "07_Dark_Crate  Account Typing Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6338,
+      "y": 785,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:8069",
+    "name": "08_Dark_Crate  Account Full Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6806,
+      "y": 785,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8091",
+    "name": "09_Dark_Login Account Blank Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 7274,
+      "y": 785,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8112",
+    "name": "10_Dark_Login Account Typing Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 7742,
+      "y": 785,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:8135",
+    "name": "11_Dark_Login Account Full Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 8210,
+      "y": 785,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8156",
+    "name": "Marker Navigation (Register And Login )",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 566,
+      "width": 649,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "97:2854",
+    "name": "12_White_Forgot Password_Blank Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 2034,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "97:3037",
+    "name": "13_White_Forgot Password_Full Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 254,
+      "y": 2034,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "97:3078",
+    "name": "14_White_Forgot Password_Otp Code",
+    "type": "FRAME",
+    "bounds": {
+      "x": 722,
+      "y": 2034,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "97:3330",
+    "name": "15_White_Forgot Password_Form Enter New Password",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1190,
+      "y": 2034,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "97:3560",
+    "name": "16_White_Forgot Password_Success",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1658,
+      "y": 2034,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 4
+  },
+  {
+    "id": "97:2849",
+    "name": "Marker Navigation ( Forgot Password )",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 1815,
+      "width": 603,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8161",
+    "name": "12_Dark_Forgot Password_Blank Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 2034,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8173",
+    "name": "13_Dark_Forgot Password_Full Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5870,
+      "y": 2034,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8185",
+    "name": "14_Dark_Forgot Password_Otp Code",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6338,
+      "y": 2034,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:8198",
+    "name": "15_Dark_Forgot Password_Form Enter New Password",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6806,
+      "y": 2034,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8219",
+    "name": "16_Dark_Forgot Password_Success",
+    "type": "FRAME",
+    "bounds": {
+      "x": 7274,
+      "y": 2034,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 4
+  },
+  {
+    "id": "140:8243",
+    "name": "Marker Navigation ( Forgot Password )",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 1815,
+      "width": 603,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "99:2507",
+    "name": "17_White_Fill Your Profile Blank Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 3283,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "99:2662",
+    "name": "18_White_Fill Your Profile Full Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 254,
+      "y": 3283,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "99:2788",
+    "name": "19_White_Fill Your Profile_Enter PIN",
+    "type": "FRAME",
+    "bounds": {
+      "x": 722,
+      "y": 3283,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "99:2905",
+    "name": "20_White_Set Up profile_Success",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1190,
+      "y": 3283,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 5
+  },
+  {
+    "id": "99:2502",
+    "name": "Marker Navigation ( Setup Profile )",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 3064,
+      "width": 523,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8248",
+    "name": "17_Dark_Fill Your Profile Blank Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 3283,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8264",
+    "name": "18_Dark_Fill Your Profile Full Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5870,
+      "y": 3283,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8280",
+    "name": "19_Dark_Fill Your Profile_Enter PIN",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6338,
+      "y": 3283,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:8293",
+    "name": "20_Dark_Set Up profile_Success",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6806,
+      "y": 3283,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 5
+  },
+  {
+    "id": "140:8309",
+    "name": "Marker Navigation ( Setup Profile )",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 3064,
+      "width": 523,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "99:2998",
+    "name": "21_White_Home Fit Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 4532,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "99:3349",
+    "name": "22_White_Home Full Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 254,
+      "y": 4532,
+      "width": 428,
+      "height": 1878
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "99:3686",
+    "name": "23_White_Home_Favorite Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 722,
+      "y": 4532,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "99:4098",
+    "name": "24_White_Home_Favorite_Sort By",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1190,
+      "y": 4532,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 4
+  },
+  {
+    "id": "99:4247",
+    "name": "25_White_Home_Notification",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1658,
+      "y": 4532,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "99:4517",
+    "name": "26_White_Home_Notification_Sort By",
+    "type": "FRAME",
+    "bounds": {
+      "x": 2126,
+      "y": 4532,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 4
+  },
+  {
+    "id": "99:2993",
+    "name": "Marker Navigation (  Home )",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 4313,
+      "width": 375,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8314",
+    "name": "21_Dark_Home Fit Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 4532,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:8331",
+    "name": "22_Dark_Home Full Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5870,
+      "y": 4532,
+      "width": 428,
+      "height": 1878
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:8350",
+    "name": "23_Dark_Home_Favorite Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6338,
+      "y": 4532,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8362",
+    "name": "24_Dark_Home_Favorite_Sort By",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6806,
+      "y": 4532,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 4
+  },
+  {
+    "id": "140:8377",
+    "name": "25_Dark_Home_Notification",
+    "type": "FRAME",
+    "bounds": {
+      "x": 7274,
+      "y": 4532,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8389",
+    "name": "26_Dark_Home_Notification_Sort By",
+    "type": "FRAME",
+    "bounds": {
+      "x": 7742,
+      "y": 4532,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 4
+  },
+  {
+    "id": "140:8404",
+    "name": "Marker Navigation (  Home )",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 4313,
+      "width": 375,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "102:3484",
+    "name": "27_White_List Real Estate",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 6733,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "102:3850",
+    "name": "28_White_Filter page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 254,
+      "y": 6733,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "105:3809",
+    "name": "29_White_Fillter_Facility",
+    "type": "FRAME",
+    "bounds": {
+      "x": 722,
+      "y": 6733,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "107:4061",
+    "name": "30_White_Result Filter",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1190,
+      "y": 6733,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "107:4363",
+    "name": "31_White_Search Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1658,
+      "y": 6733,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "107:4491",
+    "name": "32_White_Search_Result Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 2126,
+      "y": 6733,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "99:4720",
+    "name": "Marker Navigation ( List Real Estate )",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 6514,
+      "width": 576,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8409",
+    "name": "27_Dark_List Real Estate",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 6733,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8422",
+    "name": "28_Dark_Filter page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5870,
+      "y": 6733,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:8441",
+    "name": "29_Dark_Fillter_Facility",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6338,
+      "y": 6733,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:8455",
+    "name": "30_Dark_Result Filter",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6806,
+      "y": 6733,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8467",
+    "name": "31_Dark_Search Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 7274,
+      "y": 6733,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8475",
+    "name": "32_Dark_Search_Result Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 7742,
+      "y": 6733,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:8485",
+    "name": "Marker Navigation ( List Real Estate )",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 6514,
+      "width": 576,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "107:4725",
+    "name": "33_White_Detail Real Estate_Full Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 7994,
+      "width": 428,
+      "height": 1777
+    },
+    "parentId": "97:1810",
+    "childCount": 5
+  },
+  {
+    "id": "109:4444",
+    "name": "34_White_Detail Real Estate_Fit Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 254,
+      "y": 7994,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 5
+  },
+  {
+    "id": "109:4764",
+    "name": "35_White_Detail Real Estate_Share Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 722,
+      "y": 7994,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 7
+  },
+  {
+    "id": "109:5186",
+    "name": "36_White_Detail Real Estate_Gallery",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1190,
+      "y": 7994,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "109:5604",
+    "name": "37_White_Detail Real Estate_Review Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1658,
+      "y": 7994,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "107:4720",
+    "name": "Marker Navigation ( Detail Real Estate )",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 7763,
+      "width": 628,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8490",
+    "name": "33_Dark_Detail Real Estate_Full Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 7994,
+      "width": 428,
+      "height": 1777
+    },
+    "parentId": "97:1810",
+    "childCount": 5
+  },
+  {
+    "id": "140:8575",
+    "name": "34_Dark_Detail Real Estate_Fit Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5870,
+      "y": 7994,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 5
+  },
+  {
+    "id": "140:8660",
+    "name": "35_Dark_Detail Real Estate_Share Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6338,
+      "y": 7994,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 7
+  },
+  {
+    "id": "140:8748",
+    "name": "36_Dark_Detail Real Estate_Gallery",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6806,
+      "y": 7994,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8764",
+    "name": "37_Dark_Detail Real Estate_Review Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 7274,
+      "y": 7994,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8774",
+    "name": "Marker Navigation ( Detail Real Estate )",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 7763,
+      "width": 628,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "109:5863",
+    "name": "38_White_Booking_Purchase Methods",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 10094,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "112:6179",
+    "name": "39_White_Booking_Select Date_Blank Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 254,
+      "y": 10094,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "112:6495",
+    "name": "40_White_Booking_Select Date_Fill Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 722,
+      "y": 10094,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "112:6916",
+    "name": "41_White_Booking_Information User",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1190,
+      "y": 10094,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "112:7118",
+    "name": "42_White_Booking_Select Payment Methods",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1658,
+      "y": 10094,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "113:5640",
+    "name": "43_White_Booking_Review Summary",
+    "type": "FRAME",
+    "bounds": {
+      "x": 2126,
+      "y": 10094,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "112:7476",
+    "name": "44_White_Booking_Enter Your PIN",
+    "type": "FRAME",
+    "bounds": {
+      "x": 2594,
+      "y": 10094,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "113:5502",
+    "name": "45_White_Booking_Successfull",
+    "type": "FRAME",
+    "bounds": {
+      "x": 3062,
+      "y": 10094,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 5
+  },
+  {
+    "id": "113:5817",
+    "name": "46_White_Booking_E-Receipt Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 3530,
+      "y": 10094,
+      "width": 428,
+      "height": 1196
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "109:5858",
+    "name": "Marker Navigation ( Booking Real Estate )",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 9875,
+      "width": 673,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:8779",
+    "name": "38_Dark_Booking_Purchase Methods",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 10094,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:8792",
+    "name": "39_Dark_Booking_Select Date_Blank Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5870,
+      "y": 10094,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:8880",
+    "name": "40_Dark_Booking_Select Date_Fill Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6338,
+      "y": 10094,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:8968",
+    "name": "41_Dark_Booking_Information User",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6806,
+      "y": 10094,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:8981",
+    "name": "42_Dark_Booking_Select Payment Methods",
+    "type": "FRAME",
+    "bounds": {
+      "x": 7274,
+      "y": 10094,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:8994",
+    "name": "43_Dark_Booking_Review Summary",
+    "type": "FRAME",
+    "bounds": {
+      "x": 7742,
+      "y": 10094,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:9003",
+    "name": "44_Dark_Booking_Enter Your PIN",
+    "type": "FRAME",
+    "bounds": {
+      "x": 8210,
+      "y": 10094,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:9016",
+    "name": "45_Dark_Booking_Successfull",
+    "type": "FRAME",
+    "bounds": {
+      "x": 8678,
+      "y": 10094,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 5
+  },
+  {
+    "id": "140:9032",
+    "name": "46_Dark_Booking_E-Receipt Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 9146,
+      "y": 10094,
+      "width": 428,
+      "height": 1196
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:9041",
+    "name": "Marker Navigation ( Booking Real Estate )",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 9875,
+      "width": 673,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "113:6161",
+    "name": "47_White_Buy_Purchase Methods",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 11345,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "113:6266",
+    "name": "48_White_Buy_Review Summary",
+    "type": "FRAME",
+    "bounds": {
+      "x": 254,
+      "y": 11345,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "113:6423",
+    "name": "49_White_Buy_Cost Calculation Detail",
+    "type": "FRAME",
+    "bounds": {
+      "x": 722,
+      "y": 11345,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "113:6573",
+    "name": "50_White_Buy_Credit Simulation",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1190,
+      "y": 11345,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "113:6697",
+    "name": "51_White_Buy_Schedule Appointment",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1658,
+      "y": 11345,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "114:6908",
+    "name": "52_White_Buy_Select Payment Methodts",
+    "type": "FRAME",
+    "bounds": {
+      "x": 2126,
+      "y": 11345,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "114:7022",
+    "name": "53_White_Buy_Review Summary",
+    "type": "FRAME",
+    "bounds": {
+      "x": 2594,
+      "y": 11345,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "114:7178",
+    "name": "54_White_Buy_Enter Your PIN",
+    "type": "FRAME",
+    "bounds": {
+      "x": 3062,
+      "y": 11345,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "114:7235",
+    "name": "55_White_Buy Real Estate Susccess",
+    "type": "FRAME",
+    "bounds": {
+      "x": 3530,
+      "y": 11345,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 5
+  },
+  {
+    "id": "114:7310",
+    "name": "56_White_Booking_E-Receipt Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 3998,
+      "y": 11345,
+      "width": 428,
+      "height": 1124
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "113:6156",
+    "name": "Marker Navigation ( Buy Real Estate )",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 11126,
+      "width": 581,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:9046",
+    "name": "47_Dark_Buy_Purchase Methods",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 11345,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:9059",
+    "name": "48_Dark_Buy_Review Summary",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5870,
+      "y": 11345,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:9070",
+    "name": "49_Dark_Buy_Cost Calculation Detail",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6338,
+      "y": 11345,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:9078",
+    "name": "50_Dark_Buy_Credit Simulation",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6806,
+      "y": 11345,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:9084",
+    "name": "51_Dark_Buy_Schedule Appointment",
+    "type": "FRAME",
+    "bounds": {
+      "x": 7274,
+      "y": 11345,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:9172",
+    "name": "52_Dark_Buy_Select Payment Methodts",
+    "type": "FRAME",
+    "bounds": {
+      "x": 7742,
+      "y": 11345,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:9185",
+    "name": "53_Dark_Buy_Review Summary",
+    "type": "FRAME",
+    "bounds": {
+      "x": 8210,
+      "y": 11345,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:9194",
+    "name": "54_Dark_Buy_Enter Your PIN",
+    "type": "FRAME",
+    "bounds": {
+      "x": 8678,
+      "y": 11345,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:9207",
+    "name": "55_Dark_Buy Real Estate Susccess",
+    "type": "FRAME",
+    "bounds": {
+      "x": 9146,
+      "y": 11345,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 5
+  },
+  {
+    "id": "140:9223",
+    "name": "56_Dark_Booking_E-Receipt Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 9614,
+      "y": 11345,
+      "width": 428,
+      "height": 1124
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:9232",
+    "name": "Marker Navigation ( Buy Real Estate )",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 11126,
+      "width": 581,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "116:6360",
+    "name": "57_White_Explore Enable Location",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 12596,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 5
+  },
+  {
+    "id": "117:6532",
+    "name": "58_White_Explore_Mpas",
+    "type": "FRAME",
+    "bounds": {
+      "x": 254,
+      "y": 12596,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 4
+  },
+  {
+    "id": "117:9648",
+    "name": "59_White_Explore_Mpas_Select Real Estate",
+    "type": "FRAME",
+    "bounds": {
+      "x": 722,
+      "y": 12596,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 5
+  },
+  {
+    "id": "114:7305",
+    "name": "Marker Navigation ( Explore (Real Estate Nearby User Location) )",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 12377,
+      "width": 1176,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:9237",
+    "name": "57_Dark_Explore Enable Location",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 12596,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 5
+  },
+  {
+    "id": "140:9253",
+    "name": "58_Dark_Explore_Mpas",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5870,
+      "y": 12596,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 4
+  },
+  {
+    "id": "140:9268",
+    "name": "59_Dark_Explore_Mpas_Select Real Estate",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6338,
+      "y": 12596,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 5
+  },
+  {
+    "id": "140:9285",
+    "name": "Marker Navigation ( Explore (Real Estate Nearby User Location) )",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 12377,
+      "width": 1176,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "119:9852",
+    "name": "60_White_Messagae_Chat Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 13849,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "119:10308",
+    "name": "61_White_Messagae_Call Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 254,
+      "y": 13849,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "119:10651",
+    "name": "62_White_Message_Form Chat Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 722,
+      "y": 13847,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "120:10941",
+    "name": "63_White_Message_Form Chat Page_Typing Chat",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1190,
+      "y": 13849,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "117:9847",
+    "name": "Marker Navigation ( Message )",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 13630,
+      "width": 443,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:9290",
+    "name": "60_Dark_Messagae_Chat Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 13849,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:9305",
+    "name": "61_Dark_Messagae_Call Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5870,
+      "y": 13849,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:9320",
+    "name": "62_Dark_Message_Form Chat Page",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6338,
+      "y": 13847,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:9354",
+    "name": "63_Dark_Message_Form Chat Page_Typing Chat",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6806,
+      "y": 13849,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:9374",
+    "name": "Marker Navigation ( Message )",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 13630,
+      "width": 443,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "123:7142",
+    "name": "64_White_Profile",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 15096,
+      "width": 428,
+      "height": 1068
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "124:7583",
+    "name": "65_White_Edit Profile",
+    "type": "FRAME",
+    "bounds": {
+      "x": 254,
+      "y": 15096,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "124:7642",
+    "name": "66_White_Profile_Appointment",
+    "type": "FRAME",
+    "bounds": {
+      "x": 722,
+      "y": 15096,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "125:7368",
+    "name": "67_White_Profile_My Booking",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1190,
+      "y": 15096,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "125:7496",
+    "name": "68_White_Profile_Paymet Methods",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1658,
+      "y": 15096,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "125:7792",
+    "name": "69_White_Prpfile_Add Payment Methods",
+    "type": "FRAME",
+    "bounds": {
+      "x": 2126,
+      "y": 15096,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "125:8064",
+    "name": "70_White_Profile_Setting Laguage",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 16268,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "125:8313",
+    "name": "71_White_Profile_Setting Notification",
+    "type": "FRAME",
+    "bounds": {
+      "x": 254,
+      "y": 16268,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "125:8495",
+    "name": "72_White_Profile_Setting Security",
+    "type": "FRAME",
+    "bounds": {
+      "x": 722,
+      "y": 16268,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "126:7713",
+    "name": "73_White_Profile_Setting Help Center_FAQ",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1190,
+      "y": 16268,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "126:7832",
+    "name": "74_White_Profile_Setting Help Center_Contact Us",
+    "type": "FRAME",
+    "bounds": {
+      "x": 1658,
+      "y": 16268,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "126:7963",
+    "name": "75_White_Profile_Setting_Customer Service",
+    "type": "FRAME",
+    "bounds": {
+      "x": 2126,
+      "y": 16268,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "126:8139",
+    "name": "76_White_Profile_Logout",
+    "type": "FRAME",
+    "bounds": {
+      "x": 2594,
+      "y": 16268,
+      "width": 428,
+      "height": 1068
+    },
+    "parentId": "97:1810",
+    "childCount": 5
+  },
+  {
+    "id": "120:11144",
+    "name": "Marker Navigation ( Profile And Setting )",
+    "type": "FRAME",
+    "bounds": {
+      "x": -214,
+      "y": 14877,
+      "width": 654,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:9379",
+    "name": "64_Dark_Profile",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 15096,
+      "width": 428,
+      "height": 1068
+    },
+    "parentId": "97:1810",
+    "childCount": 3
+  },
+  {
+    "id": "140:9458",
+    "name": "65_Dark_Edit Profile",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5870,
+      "y": 15096,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:9474",
+    "name": "66_Dark_Profile_Appointment",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6338,
+      "y": 15096,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:9483",
+    "name": "67_Dark_Profile_My Booking",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6806,
+      "y": 15096,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:9490",
+    "name": "68_Dark_Profile_Paymet Methods",
+    "type": "FRAME",
+    "bounds": {
+      "x": 7274,
+      "y": 15096,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:9501",
+    "name": "69_Dark_Prpfile_Add Payment Methods",
+    "type": "FRAME",
+    "bounds": {
+      "x": 7742,
+      "y": 15096,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:9513",
+    "name": "70_Dark_Profile_Setting Laguage",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 16268,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:9528",
+    "name": "71_Dark_Profile_Setting Notification",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5870,
+      "y": 16268,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:9542",
+    "name": "72_Dark_Profile_Setting Security",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6338,
+      "y": 16268,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:9562",
+    "name": "73_Dark_Profile_Setting Help Center_FAQ",
+    "type": "FRAME",
+    "bounds": {
+      "x": 6806,
+      "y": 16268,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:9599",
+    "name": "74_Dark_Profile_Setting Help Center_Contact Us",
+    "type": "FRAME",
+    "bounds": {
+      "x": 7274,
+      "y": 16268,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:9620",
+    "name": "75_Dark_Profile_Setting_Customer Service",
+    "type": "FRAME",
+    "bounds": {
+      "x": 7742,
+      "y": 16268,
+      "width": 428,
+      "height": 926
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  },
+  {
+    "id": "140:9656",
+    "name": "76_Dark_Profile_Logout",
+    "type": "FRAME",
+    "bounds": {
+      "x": 8210,
+      "y": 16268,
+      "width": 428,
+      "height": 1068
+    },
+    "parentId": "97:1810",
+    "childCount": 5
+  },
+  {
+    "id": "140:9738",
+    "name": "Marker Navigation ( Profile And Setting )",
+    "type": "FRAME",
+    "bounds": {
+      "x": 5402,
+      "y": 14877,
+      "width": 654,
+      "height": 115
+    },
+    "parentId": "97:1810",
+    "childCount": 2
+  }
+]

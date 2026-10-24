@@ -1,0 +1,5 @@
+package com.betahome.beta_home
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity : FlutterActivity()

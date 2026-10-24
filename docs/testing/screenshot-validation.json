@@ -1,0 +1,704 @@
+{
+  "date": "2026-10-24",
+  "count": 116,
+  "resolution": "428x926",
+  "missing_document_links": [],
+  "images": [
+    {
+      "file": "docs/screenshots/dark/add-card.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 27764
+    },
+    {
+      "file": "docs/screenshots/dark/appointment-date.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 47802
+    },
+    {
+      "file": "docs/screenshots/dark/appointments.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 22129
+    },
+    {
+      "file": "docs/screenshots/dark/booking-date.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 41631
+    },
+    {
+      "file": "docs/screenshots/dark/booking-pin.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 15662
+    },
+    {
+      "file": "docs/screenshots/dark/booking-success.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 26591
+    },
+    {
+      "file": "docs/screenshots/dark/bookings.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 31999
+    },
+    {
+      "file": "docs/screenshots/dark/buy-summary.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 63127
+    },
+    {
+      "file": "docs/screenshots/dark/call.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 48091
+    },
+    {
+      "file": "docs/screenshots/dark/calls.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 71786
+    },
+    {
+      "file": "docs/screenshots/dark/chat.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 35177
+    },
+    {
+      "file": "docs/screenshots/dark/contact.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 22623
+    },
+    {
+      "file": "docs/screenshots/dark/cost.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 49059
+    },
+    {
+      "file": "docs/screenshots/dark/credit.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 39335
+    },
+    {
+      "file": "docs/screenshots/dark/customer-service.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 35703
+    },
+    {
+      "file": "docs/screenshots/dark/detail.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 320638
+    },
+    {
+      "file": "docs/screenshots/dark/edit-profile.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 40588
+    },
+    {
+      "file": "docs/screenshots/dark/enable-location.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 30180
+    },
+    {
+      "file": "docs/screenshots/dark/explore.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 105708
+    },
+    {
+      "file": "docs/screenshots/dark/facilities.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 20882
+    },
+    {
+      "file": "docs/screenshots/dark/favorites-sort.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 129776
+    },
+    {
+      "file": "docs/screenshots/dark/favorites.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 150760
+    },
+    {
+      "file": "docs/screenshots/dark/filter.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 33259
+    },
+    {
+      "file": "docs/screenshots/dark/forgot.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 24116
+    },
+    {
+      "file": "docs/screenshots/dark/gallery.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 386574
+    },
+    {
+      "file": "docs/screenshots/dark/help.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 28788
+    },
+    {
+      "file": "docs/screenshots/dark/home.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 184082
+    },
+    {
+      "file": "docs/screenshots/dark/language.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 30337
+    },
+    {
+      "file": "docs/screenshots/dark/list.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 152665
+    },
+    {
+      "file": "docs/screenshots/dark/login.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 36887
+    },
+    {
+      "file": "docs/screenshots/dark/logout.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 34199
+    },
+    {
+      "file": "docs/screenshots/dark/messages.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 71785
+    },
+    {
+      "file": "docs/screenshots/dark/notification-settings.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 27670
+    },
+    {
+      "file": "docs/screenshots/dark/notifications.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 39389
+    },
+    {
+      "file": "docs/screenshots/dark/onboarding-2.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 300572
+    },
+    {
+      "file": "docs/screenshots/dark/onboarding-3.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 336533
+    },
+    {
+      "file": "docs/screenshots/dark/onboarding.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 344297
+    },
+    {
+      "file": "docs/screenshots/dark/otp.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 21001
+    },
+    {
+      "file": "docs/screenshots/dark/password-success.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 23891
+    },
+    {
+      "file": "docs/screenshots/dark/payment-methods.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 27743
+    },
+    {
+      "file": "docs/screenshots/dark/payment.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 29003
+    },
+    {
+      "file": "docs/screenshots/dark/profile-success.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 19855
+    },
+    {
+      "file": "docs/screenshots/dark/profile.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 43948
+    },
+    {
+      "file": "docs/screenshots/dark/property-share.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 241074
+    },
+    {
+      "file": "docs/screenshots/dark/purchase-method.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 57547
+    },
+    {
+      "file": "docs/screenshots/dark/receipt.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 57345
+    },
+    {
+      "file": "docs/screenshots/dark/register.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 41145
+    },
+    {
+      "file": "docs/screenshots/dark/reset.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 30372
+    },
+    {
+      "file": "docs/screenshots/dark/results.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 152617
+    },
+    {
+      "file": "docs/screenshots/dark/reviews.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 71880
+    },
+    {
+      "file": "docs/screenshots/dark/search.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 47708
+    },
+    {
+      "file": "docs/screenshots/dark/security.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 23655
+    },
+    {
+      "file": "docs/screenshots/dark/setup-pin.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 16774
+    },
+    {
+      "file": "docs/screenshots/dark/setup-profile.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 40195
+    },
+    {
+      "file": "docs/screenshots/dark/splash.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 10938
+    },
+    {
+      "file": "docs/screenshots/dark/summary.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 53230
+    },
+    {
+      "file": "docs/screenshots/dark/user-info.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 45939
+    },
+    {
+      "file": "docs/screenshots/dark/welcome.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 287392
+    },
+    {
+      "file": "docs/screenshots/light/add-card.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 27727
+    },
+    {
+      "file": "docs/screenshots/light/appointment-date.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 47782
+    },
+    {
+      "file": "docs/screenshots/light/appointments.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 21776
+    },
+    {
+      "file": "docs/screenshots/light/booking-date.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 41410
+    },
+    {
+      "file": "docs/screenshots/light/booking-pin.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 15349
+    },
+    {
+      "file": "docs/screenshots/light/booking-success.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 24928
+    },
+    {
+      "file": "docs/screenshots/light/bookings.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 31677
+    },
+    {
+      "file": "docs/screenshots/light/buy-summary.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 62591
+    },
+    {
+      "file": "docs/screenshots/light/call.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 47312
+    },
+    {
+      "file": "docs/screenshots/light/calls.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 69476
+    },
+    {
+      "file": "docs/screenshots/light/chat.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 34892
+    },
+    {
+      "file": "docs/screenshots/light/contact.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 22201
+    },
+    {
+      "file": "docs/screenshots/light/cost.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 48248
+    },
+    {
+      "file": "docs/screenshots/light/credit.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 39084
+    },
+    {
+      "file": "docs/screenshots/light/customer-service.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 35465
+    },
+    {
+      "file": "docs/screenshots/light/detail.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 318954
+    },
+    {
+      "file": "docs/screenshots/light/edit-profile.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 40156
+    },
+    {
+      "file": "docs/screenshots/light/enable-location.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 28830
+    },
+    {
+      "file": "docs/screenshots/light/explore.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 105179
+    },
+    {
+      "file": "docs/screenshots/light/facilities.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 20857
+    },
+    {
+      "file": "docs/screenshots/light/favorites-sort.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 130473
+    },
+    {
+      "file": "docs/screenshots/light/favorites.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 150684
+    },
+    {
+      "file": "docs/screenshots/light/filter.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 33069
+    },
+    {
+      "file": "docs/screenshots/light/forgot.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 23941
+    },
+    {
+      "file": "docs/screenshots/light/gallery.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 387475
+    },
+    {
+      "file": "docs/screenshots/light/help.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 28515
+    },
+    {
+      "file": "docs/screenshots/light/home.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 183549
+    },
+    {
+      "file": "docs/screenshots/light/language.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 29135
+    },
+    {
+      "file": "docs/screenshots/light/list.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 153406
+    },
+    {
+      "file": "docs/screenshots/light/login.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 35629
+    },
+    {
+      "file": "docs/screenshots/light/logout.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 33957
+    },
+    {
+      "file": "docs/screenshots/light/messages.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 69886
+    },
+    {
+      "file": "docs/screenshots/light/notification-settings.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 27778
+    },
+    {
+      "file": "docs/screenshots/light/notifications.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 39187
+    },
+    {
+      "file": "docs/screenshots/light/onboarding-2.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 300141
+    },
+    {
+      "file": "docs/screenshots/light/onboarding-3.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 336177
+    },
+    {
+      "file": "docs/screenshots/light/onboarding.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 343516
+    },
+    {
+      "file": "docs/screenshots/light/otp.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 20309
+    },
+    {
+      "file": "docs/screenshots/light/password-success.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 22433
+    },
+    {
+      "file": "docs/screenshots/light/payment-methods.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 26932
+    },
+    {
+      "file": "docs/screenshots/light/payment.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 28188
+    },
+    {
+      "file": "docs/screenshots/light/profile-success.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 18538
+    },
+    {
+      "file": "docs/screenshots/light/profile.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 43518
+    },
+    {
+      "file": "docs/screenshots/light/property-share.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 240257
+    },
+    {
+      "file": "docs/screenshots/light/purchase-method.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 56443
+    },
+    {
+      "file": "docs/screenshots/light/receipt.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 56399
+    },
+    {
+      "file": "docs/screenshots/light/register.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 40093
+    },
+    {
+      "file": "docs/screenshots/light/reset.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 30203
+    },
+    {
+      "file": "docs/screenshots/light/results.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 153274
+    },
+    {
+      "file": "docs/screenshots/light/reviews.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 70969
+    },
+    {
+      "file": "docs/screenshots/light/search.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 46980
+    },
+    {
+      "file": "docs/screenshots/light/security.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 23684
+    },
+    {
+      "file": "docs/screenshots/light/setup-pin.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 16589
+    },
+    {
+      "file": "docs/screenshots/light/setup-profile.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 39759
+    },
+    {
+      "file": "docs/screenshots/light/splash.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 10691
+    },
+    {
+      "file": "docs/screenshots/light/summary.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 52752
+    },
+    {
+      "file": "docs/screenshots/light/user-info.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 45559
+    },
+    {
+      "file": "docs/screenshots/light/welcome.png",
+      "width": 428,
+      "height": 926,
+      "bytes": 286779
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-24",
+  "source_files": 259,
+  "artifacts": [
+    {
+      "file": "beta-home-demo.apk",
+      "bytes": 63668348,
+      "sha256": "3c869e0266125b3586b5bc83bc82c0be69fb0d2ca00d5441abf250fcf88db31f"
+    },
+    {
+      "file": "beta-home-source.zip",
+      "bytes": 21561655,
+      "sha256": "cbf34f79b196eec73dbd1908e463de030d7e25caff57cdc2883c1e8f2a1c7310"
+    }
+  ]
+}

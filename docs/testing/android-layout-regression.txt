@@ -1,0 +1,5 @@
+√ Built build\app\outputs\flutter-apk\app-debug.apk
+I/flutter (10518): 00:00 +0: light /add-card fits 320px
+I/flutter (10518): 00:03 +1: dark /add-card fits 428px
+I/flutter (10518): 00:07 +4: All tests passed!
+All tests passed.

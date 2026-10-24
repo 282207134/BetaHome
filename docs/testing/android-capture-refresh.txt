@@ -1,0 +1,4 @@
+√ Built build\app\outputs\flutter-apk\app-debug.apk
+I/flutter (10725): 00:00 +0: capture all pages in light and dark themes
+I/flutter (10725): 00:12 +2: All tests passed!
+All tests passed.

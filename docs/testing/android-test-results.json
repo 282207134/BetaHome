@@ -1,0 +1,20 @@
+{
+  "screenNames": [
+    "light/summary",
+    "light/receipt",
+    "light/buy-summary",
+    "light/cost",
+    "light/credit",
+    "light/explore",
+    "light/appointments",
+    "light/add-card",
+    "dark/summary",
+    "dark/receipt",
+    "dark/buy-summary",
+    "dark/cost",
+    "dark/credit",
+    "dark/explore",
+    "dark/appointments",
+    "dark/add-card"
+  ]
+}
